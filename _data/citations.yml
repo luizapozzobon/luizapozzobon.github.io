@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-19'
+  last_updated: '2026-06-22'
 papers:
   vaCOqncAAAAJ:2osOgNQ5qMEC:
     citations: 4
@@ -14,7 +14,7 @@ papers:
     title: On the challenges of using black-box APIs for toxicity evaluation in research
     year: '2023'
   vaCOqncAAAAJ:W7OEmFMy1HYC:
-    citations: 10
+    citations: 11
     title: 'From one to many: Expanding the scope of toxicity mitigation in language models'
     year: '2024'
   vaCOqncAAAAJ:WF5omc3nYNoC:
@@ -42,6 +42,6 @@ papers:
     title: "EDITOR DE COREOGRAFIAS PARA ROB\xD4 HUMANOIDE"
     year: '2025'
   vaCOqncAAAAJ:zYLM7Y9cAGgC:
-    citations: 219
+    citations: 220
     title: 'When less is more: Investigating data pruning for pretraining llms at scale'
     year: '2023'
