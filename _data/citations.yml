@@ -1,16 +1,16 @@
 metadata:
-  last_updated: '2026-07-10'
+  last_updated: '2026-07-20'
 papers:
   vaCOqncAAAAJ:2osOgNQ5qMEC:
     citations: 4
     title: A low-cost, compliant, underactuated prosthetic hand with custom flex sensors for finger bending estimation
     year: '2019'
   vaCOqncAAAAJ:Tyk-4Ss8FVUC:
-    citations: 35
+    citations: 36
     title: 'Goodtriever: Adaptive toxicity mitigation with retrieval-augmented models'
     year: '2023'
   vaCOqncAAAAJ:UeHWp8X0CEIC:
-    citations: 63
+    citations: 64
     title: On the challenges of using black-box APIs for toxicity evaluation in research
     year: '2023'
   vaCOqncAAAAJ:W7OEmFMy1HYC:
