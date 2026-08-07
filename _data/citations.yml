@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-07-22'
+  last_updated: '2026-08-07'
 papers:
   vaCOqncAAAAJ:2osOgNQ5qMEC:
     citations: 4
     title: A low-cost, compliant, underactuated prosthetic hand with custom flex sensors for finger bending estimation
     year: '2019'
   vaCOqncAAAAJ:Tyk-4Ss8FVUC:
-    citations: 36
+    citations: 39
     title: 'Goodtriever: Adaptive toxicity mitigation with retrieval-augmented models'
     year: '2023'
   vaCOqncAAAAJ:UeHWp8X0CEIC:
@@ -19,10 +19,10 @@ papers:
     year: '2024'
   vaCOqncAAAAJ:WF5omc3nYNoC:
     citations: 1
-    title: 'LEGATO: Large-scale End-to-end Generalizable Approach to Typeset OMR'
-    year: '2025'
+    title: 'Legato: Large-scale end-to-end generalizable approach to typeset omr'
+    year: '2026'
   vaCOqncAAAAJ:Y0pCki6q_DkC:
-    citations: 4
+    citations: 5
     title: 'From one to many: Expanding the scope of toxicity mitigation in language models'
     year: '2024'
   vaCOqncAAAAJ:YsMSGLbcyi4C:
@@ -34,7 +34,7 @@ papers:
     title: Custom made low-cost optoelectronic flex sensor and its parameterization
     year: '2019'
   vaCOqncAAAAJ:eQOLeE2rZwMC:
-    citations: 19
+    citations: 21
     title: 'When less is more: Investigating data pruning for pretraining llms at scale, 2023'
     year: Unknown Year
   vaCOqncAAAAJ:ufrVoPGSRksC:
@@ -42,6 +42,6 @@ papers:
     title: "EDITOR DE COREOGRAFIAS PARA ROB\xD4 HUMANOIDE"
     year: '2025'
   vaCOqncAAAAJ:zYLM7Y9cAGgC:
-    citations: 225
+    citations: 229
     title: 'When less is more: Investigating data pruning for pretraining llms at scale'
     year: '2023'
