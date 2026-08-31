@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-08-21'
+  last_updated: '2026-08-31'
 papers:
   vaCOqncAAAAJ:2osOgNQ5qMEC:
     citations: 4
     title: A low-cost, compliant, underactuated prosthetic hand with custom flex sensors for finger bending estimation
     year: '2019'
   vaCOqncAAAAJ:Tyk-4Ss8FVUC:
-    citations: 39
+    citations: 40
     title: 'Goodtriever: Adaptive toxicity mitigation with retrieval-augmented models'
     year: '2023'
   vaCOqncAAAAJ:UeHWp8X0CEIC:
@@ -42,6 +42,6 @@ papers:
     title: "EDITOR DE COREOGRAFIAS PARA ROB\xD4 HUMANOIDE"
     year: '2025'
   vaCOqncAAAAJ:zYLM7Y9cAGgC:
-    citations: 231
+    citations: 233
     title: 'When less is more: Investigating data pruning for pretraining llms at scale'
     year: '2023'
