@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-31'
+  last_updated: '2026-09-07'
 papers:
   vaCOqncAAAAJ:2osOgNQ5qMEC:
     citations: 4
@@ -42,6 +42,6 @@ papers:
     title: "EDITOR DE COREOGRAFIAS PARA ROB\xD4 HUMANOIDE"
     year: '2025'
   vaCOqncAAAAJ:zYLM7Y9cAGgC:
-    citations: 233
+    citations: 236
     title: 'When less is more: Investigating data pruning for pretraining llms at scale'
     year: '2023'
